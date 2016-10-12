@@ -3,4 +3,11 @@
     <string name="flowchart">Rock Flowchart</string>
     <string name="RockLookup">Rock Look-up</string>
     <string name="MineralLookup">Mineral Look-up</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Previous">Previous</string>
+    <string name="Restart">Restart</string>
+    <string name="igDefaultDesc">Can you see the individual minerals?</string>
+    <string name="sedDefaultDesc">Does it fizz with HCl?</string>
+    <string name="metaDefaultDesc">Is the rock foliated?</string>
 </resources>
